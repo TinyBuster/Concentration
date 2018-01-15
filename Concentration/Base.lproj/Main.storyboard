@@ -270,7 +270,7 @@
                                         <rect key="frame" x="247" y="0.0" width="96" height="104"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                         <state key="normal" title="Start">
-                                            <color key="titleColor" red="0.0" green="0.99143940210000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                         <connections>
                                             <action selector="startNewGame:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kR8-8m-tdB"/>
